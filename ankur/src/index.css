@@ -1,0 +1,9 @@
+body, html {
+    background-color: aquamarine
+}
+
+.title {
+    color: white;
+    font-size: 4em;
+    font-weight: 900;
+}
